@@ -28,7 +28,7 @@ The dataset used for this project contains several key features:
 ## Features
 - Data exploration and visualization
 - Data preprocessing (handling missing values, feature scaling)
-- Model building with various machine learning algorithms (logistic regression, decision trees, etc.)
+- Model building with various machine learning algorithms (logistic regression, XGB Boost,Randoom Forest etc.)
 - Model evaluation using accuracy, precision, recall, and ROC curve
 
 ## Installation
